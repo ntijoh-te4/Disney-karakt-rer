@@ -5,6 +5,9 @@ Vi listar disney-karaktärer
 
 En anka utan byxor
 
+# Mufasa
+
+Mufasa är här
 
 # Darh Vader 
 "I am your father"- Darh Vader sith lord
@@ -12,4 +15,3 @@ En anka utan byxor
 # Lägg till Winx Club flora
 
 en winx club karaktär vid namn flora tydligen
-
