@@ -7,4 +7,4 @@ En anka utan byxor
 
 # Joakim Von Anka
 
-Joakim är en anka med som lever min dröm gällande hans förmögenhet.
+Joakim är en anka som lever min dröm gällande hans förmögenhet.
