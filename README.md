@@ -5,6 +5,14 @@ Vi listar disney-karaktärer
 
 En anka utan byxor
 
+# Joakim Von Anka
+
+Joakim är en anka som lever min dröm gällande hans förmögenhet.
+
+# Darh Vader
+
+"I am your father"- Darh Vader sith lord
+
 # Jafar
 Läskig grabb med en fet röd mantel.
 
@@ -21,9 +29,6 @@ Kalle Ankas brorsöner. Disneylegender.
 # Mufasa
 
 Mufasa är här
-
-# Darh Vader 
-"I am your father"- Darh Vader sith lord
 
 # Lägg till Winx Club flora
 
