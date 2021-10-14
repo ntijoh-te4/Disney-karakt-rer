@@ -3,4 +3,4 @@ Vi listar disney-karaktärer
 
 # Kalle Anka
 
-En arg anka utan byxor
+En anka utan byxor
