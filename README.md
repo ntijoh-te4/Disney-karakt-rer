@@ -5,6 +5,9 @@ Vi listar disney-karaktärer
 
 En anka utan byxor
 
+# Jafar
+Läskig grabb med en fet röd mantel.
+
 # Knatte, Fnatte och Tjatte 
 
 Kalle Ankas brorsöner. Disneylegender. 
