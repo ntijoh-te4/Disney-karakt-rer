@@ -7,4 +7,4 @@ En anka utan byxor
 
 # Jafar
 
-Läskig grabb med en fet röd mantel
+Läskig grabb med en fet röd mantel.
